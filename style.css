@@ -1,3 +1,71 @@
-p {
-    background-color: red;
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+}
+
+.top-container {
+    background-image: url(images/cattlehut.jpeg);
+    margin: ;
+    top: ;
+    height: 1;
+    height: 690px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: -19px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.top-container h1 {
+    font-size: 66px;
+    color: whitesmoke;
+    padding-top: 272px;
+    margin-left: 70px;
+
+}
+
+.top-container p {
+    color: #728FCE;
+    font-size: 20px;
+    margin-left: 70px;
+    width: 60%;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(35, 189, 163), rgb(55, 179, 236));
+    padding: 20px 53px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.top-container2 {
+    display: flex;
+    width: 100%;
+}
+
+.half-width {
+    width: 35%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.top-container2 h1 {
+    font-size: 36px;
+    color: black;
+    margin-bottom: 10px;
+    font-weight: 700px;
+}
+
+.top-container2 p {
+    color: black;
+    font-size: 20px;
+
+    width: 100%;
+    margin-bottom: 50px;
 }
